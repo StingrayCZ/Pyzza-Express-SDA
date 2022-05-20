@@ -1,0 +1,12 @@
+.container {
+    background-color: #f2f0d9;
+}
+
+body {
+    font-family: "Jetbrains Mono", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(23, 23, 23);
+}
